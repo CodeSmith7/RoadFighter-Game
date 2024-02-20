@@ -1,0 +1,3325 @@
+fileFormatVersion: 2
+guid: 6d69be019d118d14c88a80c651e36f43
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 160
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcadbf04e89dfe4697df4aad63092b5
+      internalID: -1284508275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 160
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92764f958cda4994a8844c54d515df96
+      internalID: -1598849590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 160
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0dc42d7dd1e584398f419c770b5034
+      internalID: 432672918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 162
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d353fc3e0ee4704ea10740034cb4d83
+      internalID: -528910381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 160
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495fee3b16464a049bc3ee51a5133e78
+      internalID: -856376862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 160
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fcae4701d9dd6d4dba4cae9bcf2d2de
+      internalID: 374860878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 161
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a8a828a96567543b586cb62701a881
+      internalID: 1690157426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 73
+        width: 180
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38907db0eff68f4c978c6e98c73a42e
+      internalID: -466570067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 145
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bf8d344c24bd143928542f3674fede
+      internalID: -2115293162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 145
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1666b15cf11b8040a64b9f0bcfed9fc
+      internalID: 1801823029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 125
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4034bba767c5044acc9a22a2711c4b
+      internalID: 2052465966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 128
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af107496ec855f94a84e9396dfde97e7
+      internalID: -1091460365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 128
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0988448486396a84bb19e8934b2b70cc
+      internalID: -151446989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_13
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 130
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e025bc85a79693249a11bcadd2df8f68
+      internalID: -2011957284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_14
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 128
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa7c8fc48abfe1439f9d1eef552557d
+      internalID: 2011323424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 128
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409c3d893b887e845825d48d4765cc6c
+      internalID: -279274446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 104
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec215d2cf11f364fb556405beb45d86
+      internalID: 1308101856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_17
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 105
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3cb50b3f87763458ae2273a19cae1d
+      internalID: 45056996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_18
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 105
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf4bff85c234d843bd139f675e1090d
+      internalID: -1938109804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_19
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 105
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ef8f451a8c2b646ba69e247dceb259
+      internalID: 1390009181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_20
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 109
+        width: 64
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbd347564cde13438284b0d540360d5
+      internalID: -1210486628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 83
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16da8a1fe4647649a2341837c87c521
+      internalID: -551168410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_22
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 83
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e29f99a77b3d246a09bb9682eb416d
+      internalID: 161069368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_23
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 83
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81335b2955aaa74fb0761fa37b97fb5
+      internalID: 248332959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_24
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 83
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0300acc60c1bdf44284cd8467e1c10e3
+      internalID: -713163219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_25
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 65
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f2d36cbe944fc4baeee76f876a5efa
+      internalID: -1383135936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_26
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 87
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0b4e1b909d5454fb0a696ef87e7d6f
+      internalID: -954860872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_27
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 87
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e5b17d986c01c49a9a8403b4337e10
+      internalID: 343260444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 81
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6167cce3e15d54bb0ab1ff1e4a750c
+      internalID: -193950279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_29
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 62
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f6dd92ab0c7f3478c4296e39f3f12f
+      internalID: -617719200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_30
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 62
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1191720e77d4b544382968c6878ca7be
+      internalID: 121214677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_31
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 62
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e50826fa39be9c41ae4c5dbb8aeae34
+      internalID: -1069218458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_32
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 62
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d18c4700a64ec4a865c99370ec9ee9
+      internalID: -1553329265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_33
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 76
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd460dc117384348b538c07547b92f3
+      internalID: -1064930560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_34
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 76
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba6ac840c8cd03488a9d13528f798f9
+      internalID: -1721038100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_35
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 65
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b281dfd6fdb6b046aab94cc5ba41b1f
+      internalID: 898896552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_36
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 65
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd38155f4007f04ca24083de8d66bde
+      internalID: 1711525002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_37
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 64
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8198a9f666b8b8f4d8c659f3f36bf078
+      internalID: 63420528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_38
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 62
+        width: 56
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8f249e1607b0f4eb278e24ca26f900
+      internalID: -322292773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_39
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 62
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5f250d75deb384bae544301233dfb6
+      internalID: -1524505180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_40
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 62
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59aa4decae1f105499af1d72ed500df7
+      internalID: 1589754288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_41
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 47
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c2d8adcaa67b940a70b75c3b9a4b92
+      internalID: -559034558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_42
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 47
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dae7451bcf47fa4285c325fa1f6b945
+      internalID: -1519501639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_43
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 47
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1699abe0b4f3034da710ff5e607b1b4
+      internalID: -1927406634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_44
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 47
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6ea9a1147fe9a46bbeb5a68a2197e9
+      internalID: 216451040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_45
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 47
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897a8c970f42c104cb159df8422ec0d0
+      internalID: -270617312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_46
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 47
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3beebacb7d20a7b42a0d80d6ed296d52
+      internalID: -1664355164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_47
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 47
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a719380ab310242bbdf55ca0e97e94
+      internalID: -1401058419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 45
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03074d86f036e754689c21ca75cb4e9d
+      internalID: 1050003750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_49
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 52
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df44d4bd14dfc8e4594beec7eb920e43
+      internalID: -1617136649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_50
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 53
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b043c9f9ccb7515419c53b2cfae9c311
+      internalID: 1754041297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_51
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 47
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b6bef4485af9748904d662e0abbcc5
+      internalID: 1669734447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_52
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 47
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df7a43f39126ea4f8058d9b16f14851
+      internalID: 1906702977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_53
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 45
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb785067748baa47ad3e8bbef783060
+      internalID: 123846646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_54
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 47
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f792a085f3ee5848925a152d2f13c3e
+      internalID: 993510545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_55
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 47
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f594fed45b6d04984d947458ead3e9
+      internalID: -986898576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_56
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 47
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f1a9ff41fef7e4eb8d232a4cf8d546
+      internalID: 1188006436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_57
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 47
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f686fbfac4af34f8da2741b17add06
+      internalID: 112227472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_58
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 47
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b260f6033410e49adef4ba37504c14
+      internalID: -63585059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_59
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 47
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5e455db8ee39544b71f7dd5929409f
+      internalID: 655670750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_60
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 42
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ea221eb1d49c542b5976306c961cae
+      internalID: -797779227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_61
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 42
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b379662ef65c98408cc56d6803d6cd6
+      internalID: 1615112367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_62
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 42
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34871fd3299cb84289a442e590db7d5
+      internalID: -2073097224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_63
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 42
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab295b31ada6774f90b209874b01ea9
+      internalID: -1593439421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_64
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 42
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f8d31c5c9452f44b5342a722966aae
+      internalID: 2047073792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_65
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 42
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f36e7ee13e7b645b7fcafd6c22c22f
+      internalID: -500330766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_66
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 42
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc98a13e4b45864a88a0fa607278723
+      internalID: 1057679413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_67
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 42
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98436f50457b2343b2e02b06c1174df
+      internalID: -376877501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_68
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 42
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8829e1c49b81c41b2b67326309bf5e
+      internalID: -1202676451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_69
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 42
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766ed9afd97aa1a4a8a15edbd86e8fc7
+      internalID: 209915801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_70
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 35
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be02a6d5cdc71984093c347a359746ac
+      internalID: 600973704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_71
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 35
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7998bd999502243ac36c5ee5b15148
+      internalID: -1663804877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_72
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 35
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997a0949a2154c944b6e342b3e448322
+      internalID: 2123772360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_73
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 35
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f434ae25e5e8c544da4a29f11d56b2c9
+      internalID: -1004782123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_74
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 33
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658e730f861cb0441be70f338ecd7406
+      internalID: -1709135701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_75
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 35
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d1e0634b18c194f8eb91a8410fc922
+      internalID: 1941330609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_76
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 35
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d2e6ae7cbd22b4db2ed165e31805a6
+      internalID: -858415356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_77
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 35
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d39c0635704abb41a06784f9717ae65
+      internalID: -554227966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_78
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 35
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1715db9363b3794ea1b37599c928fb3
+      internalID: -967537841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_79
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 35
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4f4bbe973ebd54ca6660f62b056250
+      internalID: -668533030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_80
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 34
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fda4e4686154984fa4f878cd60ff54c
+      internalID: 369868427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_81
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fe701782307d84886bf8bb1a8ca38d
+      internalID: -764465841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_82
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b297a085a5c4bf41b76b9fa4891afaa
+      internalID: 1476762258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_83
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2757a1d3830b59439f799f7c7b45fdb
+      internalID: -1223446303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_84
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ea4bd204bac904fbe89f36b60c9ee0
+      internalID: 1998960777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_85
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1355d47bb3fb86441b28b5be5d560a4a
+      internalID: -1073994266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_86
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4289f06457e87d41a5801f39afdbfde
+      internalID: 1705794460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_87
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1d5f09e8e976949a46a34e3d12a7b8
+      internalID: 209197874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_88
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 34
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda8da9a4ac398946854ce8be969c6bb
+      internalID: 1272236040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_89
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425029fcc66116d43b8ef46d82bb0375
+      internalID: -1370574777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_90
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7a17e0b3523654382a03b21a5f08a9
+      internalID: -695192633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_91
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 34
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336fcdc11c10e6a4a988f7c43c03ab54
+      internalID: -436306761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_92
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320b64827ba8f3248a1c240211d06a96
+      internalID: -1448434263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_93
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110c8a23cbfbf2541949198a26973cb7
+      internalID: -1695618002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_94
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 34
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a356dbcad7316f4e8007c67ba7d45eb
+      internalID: 1138347808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_95
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 24
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd30a0cfbcf4a594a8b3dfa2ab4ce951
+      internalID: -1569823796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_96
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 22
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f8d7a843cbeaa46b1c2e2615b37378
+      internalID: -719960519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_97
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 22
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e20b6a5fd4ae6459ab791e8f0d0d1e
+      internalID: 1913218583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_98
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 24
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d1130335253f444a49e02d5a8b4389
+      internalID: -827139775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_99
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 24
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03417a06cb5cefa46991b3c84ae08beb
+      internalID: 2039082470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_100
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 22
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd6b4872a2c6c6438a60e5d3d7fe715
+      internalID: 2016380855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_101
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 24
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e23d8fbea0e22343b931a1cc62e5bac
+      internalID: -43607038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_102
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 22
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1230fcebfc37abc45a3dbe8c0c94bdc6
+      internalID: -669831149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_103
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 22
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d41503525144e44aeb50154a2aaf51
+      internalID: 500283478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_104
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 22
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df00ca54d02269458d2cf84570ce425
+      internalID: 1253123492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_105
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b68a46cc128324aa11410cb01c459e
+      internalID: 2041322102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_106
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 24
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2498658993b5fc4394504583270a1ce
+      internalID: 1405022559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_107
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 26
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aba49631e1215f41826f684bfa02b80
+      internalID: 1425076930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_108
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 25
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e0a2eeb0a56bd4792420d8023d203d
+      internalID: 773606468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_109
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 26
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f53e56f6331a1842b3571cb287ae99a
+      internalID: -841140074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_110
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 26
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be1b3f924bd8e34c9329058bbe12f09
+      internalID: 301068331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_111
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 26
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea076fae5b5263e4e917ced717b4bae9
+      internalID: -1049588300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_112
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 26
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296e1ede7fd86214d8015e4f87653407
+      internalID: 699338780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_113
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 26
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82ce41c87c06e148b2980967cb42771
+      internalID: -665911941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_114
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 26
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7852c78bbc3bd44ba5818a2e3d59cd5
+      internalID: 1190224596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_115
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 26
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca3e2ff1138c3f488228faf258a1b6a
+      internalID: -1991358594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_116
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 26
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afeedce0fb676df40a574fbeaa114e64
+      internalID: 305446879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_117
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 26
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287501fc7ab4b6f41a8aaa970812a6a4
+      internalID: -1858151848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_118
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 25
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b857e5d82f9a94ab2feb9faf2f7c9e
+      internalID: 622866653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_119
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 26
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a35cc71a9d6c984da4b054ea85f4617
+      internalID: 1181010506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_120
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 9
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa117425acf764a4981eec08e94d5c3c
+      internalID: 1230916819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_121
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 9
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ec2756cfacffb48ac0d1b33f84f13e
+      internalID: 286658828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_122
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4273fc84fc93a904db54446df01e4b12
+      internalID: -2085273099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_123
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144b3a3e196f77f4d948bdb6f8e6087a
+      internalID: -1932225166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_124
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 9
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c765f8b45a5e174297e455b4faf60e1
+      internalID: -805859065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_125
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009210494ec4a19468ef2f4d72498171
+      internalID: 952551373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_126
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 9
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fceb6287e2df86b4cac496cc00426088
+      internalID: -275112031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_127
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 9
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3be72dc889544b448d391ab25d2c835
+      internalID: -89487582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_128
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c2751d316ce9d4f9f4a82d1f589850
+      internalID: 1535995905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_129
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 9
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d4552b2f2d5d74d9aa650a3da9d556
+      internalID: 571535232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_130
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 5
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b73f3ad5009c5d74ca9f016a1a95c8d9
+      internalID: -1816467918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_131
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 15
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07cfd97278277834bafd975c9bcb2581
+      internalID: -219748647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_132
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 4
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0571f4de13a544e8fdaa6e088e3a2b
+      internalID: -711831225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_133
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 15
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e50acdfaf6f85f47a4fcabc46e2859b
+      internalID: 1568928031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_134
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 4
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a7eea8a99200e4a8ea7686e6295259
+      internalID: 1742822465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_135
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8af2f78b520b64a9b1394fe6c782c9
+      internalID: 1852387142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_136
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 7
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf79ac38c5f7a55479c2387c904ea7bf
+      internalID: -920765038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_137
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e6f04f16540f040ae24315ad70b9ff
+      internalID: 1713560310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_138
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc8a89c5b5928841bd9917704667bc2
+      internalID: 1638545111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_139
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62002d3fcd0effe4ca33c44acf7184ba
+      internalID: 276996370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_140
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429a3433ec8939640843c536199a02be
+      internalID: -776301509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_141
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3fd9f747f072047b97184049df37d9
+      internalID: 252138709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_142
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf6bac46b3f8a44cabadf9a34b4936c
+      internalID: -361597875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_143
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 9
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09cfe877a53912e458e761c05a666f3e
+      internalID: -1664669314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Road Fighter JPN - General Sprites copy_144
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 7
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582fc04900e256c4e8c0ff4d1645bd06
+      internalID: -989402746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Road Fighter JPN - General Sprites copy_0: -1284508275
+      NES - Road Fighter JPN - General Sprites copy_1: -1598849590
+      NES - Road Fighter JPN - General Sprites copy_10: 2052465966
+      NES - Road Fighter JPN - General Sprites copy_100: 2016380855
+      NES - Road Fighter JPN - General Sprites copy_101: -43607038
+      NES - Road Fighter JPN - General Sprites copy_102: -669831149
+      NES - Road Fighter JPN - General Sprites copy_103: 500283478
+      NES - Road Fighter JPN - General Sprites copy_104: 1253123492
+      NES - Road Fighter JPN - General Sprites copy_105: 2041322102
+      NES - Road Fighter JPN - General Sprites copy_106: 1405022559
+      NES - Road Fighter JPN - General Sprites copy_107: 1425076930
+      NES - Road Fighter JPN - General Sprites copy_108: 773606468
+      NES - Road Fighter JPN - General Sprites copy_109: -841140074
+      NES - Road Fighter JPN - General Sprites copy_11: -1091460365
+      NES - Road Fighter JPN - General Sprites copy_110: 301068331
+      NES - Road Fighter JPN - General Sprites copy_111: -1049588300
+      NES - Road Fighter JPN - General Sprites copy_112: 699338780
+      NES - Road Fighter JPN - General Sprites copy_113: -665911941
+      NES - Road Fighter JPN - General Sprites copy_114: 1190224596
+      NES - Road Fighter JPN - General Sprites copy_115: -1991358594
+      NES - Road Fighter JPN - General Sprites copy_116: 305446879
+      NES - Road Fighter JPN - General Sprites copy_117: -1858151848
+      NES - Road Fighter JPN - General Sprites copy_118: 622866653
+      NES - Road Fighter JPN - General Sprites copy_119: 1181010506
+      NES - Road Fighter JPN - General Sprites copy_12: -151446989
+      NES - Road Fighter JPN - General Sprites copy_120: 1230916819
+      NES - Road Fighter JPN - General Sprites copy_121: 286658828
+      NES - Road Fighter JPN - General Sprites copy_122: -2085273099
+      NES - Road Fighter JPN - General Sprites copy_123: -1932225166
+      NES - Road Fighter JPN - General Sprites copy_124: -805859065
+      NES - Road Fighter JPN - General Sprites copy_125: 952551373
+      NES - Road Fighter JPN - General Sprites copy_126: -275112031
+      NES - Road Fighter JPN - General Sprites copy_127: -89487582
+      NES - Road Fighter JPN - General Sprites copy_128: 1535995905
+      NES - Road Fighter JPN - General Sprites copy_129: 571535232
+      NES - Road Fighter JPN - General Sprites copy_13: -2011957284
+      NES - Road Fighter JPN - General Sprites copy_130: -1816467918
+      NES - Road Fighter JPN - General Sprites copy_131: -219748647
+      NES - Road Fighter JPN - General Sprites copy_132: -711831225
+      NES - Road Fighter JPN - General Sprites copy_133: 1568928031
+      NES - Road Fighter JPN - General Sprites copy_134: 1742822465
+      NES - Road Fighter JPN - General Sprites copy_135: 1852387142
+      NES - Road Fighter JPN - General Sprites copy_136: -920765038
+      NES - Road Fighter JPN - General Sprites copy_137: 1713560310
+      NES - Road Fighter JPN - General Sprites copy_138: 1638545111
+      NES - Road Fighter JPN - General Sprites copy_139: 276996370
+      NES - Road Fighter JPN - General Sprites copy_14: 2011323424
+      NES - Road Fighter JPN - General Sprites copy_140: -776301509
+      NES - Road Fighter JPN - General Sprites copy_141: 252138709
+      NES - Road Fighter JPN - General Sprites copy_142: -361597875
+      NES - Road Fighter JPN - General Sprites copy_143: -1664669314
+      NES - Road Fighter JPN - General Sprites copy_144: -989402746
+      NES - Road Fighter JPN - General Sprites copy_15: -279274446
+      NES - Road Fighter JPN - General Sprites copy_16: 1308101856
+      NES - Road Fighter JPN - General Sprites copy_17: 45056996
+      NES - Road Fighter JPN - General Sprites copy_18: -1938109804
+      NES - Road Fighter JPN - General Sprites copy_19: 1390009181
+      NES - Road Fighter JPN - General Sprites copy_2: 432672918
+      NES - Road Fighter JPN - General Sprites copy_20: -1210486628
+      NES - Road Fighter JPN - General Sprites copy_21: -551168410
+      NES - Road Fighter JPN - General Sprites copy_22: 161069368
+      NES - Road Fighter JPN - General Sprites copy_23: 248332959
+      NES - Road Fighter JPN - General Sprites copy_24: -713163219
+      NES - Road Fighter JPN - General Sprites copy_25: -1383135936
+      NES - Road Fighter JPN - General Sprites copy_26: -954860872
+      NES - Road Fighter JPN - General Sprites copy_27: 343260444
+      NES - Road Fighter JPN - General Sprites copy_28: -193950279
+      NES - Road Fighter JPN - General Sprites copy_29: -617719200
+      NES - Road Fighter JPN - General Sprites copy_3: -528910381
+      NES - Road Fighter JPN - General Sprites copy_30: 121214677
+      NES - Road Fighter JPN - General Sprites copy_31: -1069218458
+      NES - Road Fighter JPN - General Sprites copy_32: -1553329265
+      NES - Road Fighter JPN - General Sprites copy_33: -1064930560
+      NES - Road Fighter JPN - General Sprites copy_34: -1721038100
+      NES - Road Fighter JPN - General Sprites copy_35: 898896552
+      NES - Road Fighter JPN - General Sprites copy_36: 1711525002
+      NES - Road Fighter JPN - General Sprites copy_37: 63420528
+      NES - Road Fighter JPN - General Sprites copy_38: -322292773
+      NES - Road Fighter JPN - General Sprites copy_39: -1524505180
+      NES - Road Fighter JPN - General Sprites copy_4: -856376862
+      NES - Road Fighter JPN - General Sprites copy_40: 1589754288
+      NES - Road Fighter JPN - General Sprites copy_41: -559034558
+      NES - Road Fighter JPN - General Sprites copy_42: -1519501639
+      NES - Road Fighter JPN - General Sprites copy_43: -1927406634
+      NES - Road Fighter JPN - General Sprites copy_44: 216451040
+      NES - Road Fighter JPN - General Sprites copy_45: -270617312
+      NES - Road Fighter JPN - General Sprites copy_46: -1664355164
+      NES - Road Fighter JPN - General Sprites copy_47: -1401058419
+      NES - Road Fighter JPN - General Sprites copy_48: 1050003750
+      NES - Road Fighter JPN - General Sprites copy_49: -1617136649
+      NES - Road Fighter JPN - General Sprites copy_5: 374860878
+      NES - Road Fighter JPN - General Sprites copy_50: 1754041297
+      NES - Road Fighter JPN - General Sprites copy_51: 1669734447
+      NES - Road Fighter JPN - General Sprites copy_52: 1906702977
+      NES - Road Fighter JPN - General Sprites copy_53: 123846646
+      NES - Road Fighter JPN - General Sprites copy_54: 993510545
+      NES - Road Fighter JPN - General Sprites copy_55: -986898576
+      NES - Road Fighter JPN - General Sprites copy_56: 1188006436
+      NES - Road Fighter JPN - General Sprites copy_57: 112227472
+      NES - Road Fighter JPN - General Sprites copy_58: -63585059
+      NES - Road Fighter JPN - General Sprites copy_59: 655670750
+      NES - Road Fighter JPN - General Sprites copy_6: 1690157426
+      NES - Road Fighter JPN - General Sprites copy_60: -797779227
+      NES - Road Fighter JPN - General Sprites copy_61: 1615112367
+      NES - Road Fighter JPN - General Sprites copy_62: -2073097224
+      NES - Road Fighter JPN - General Sprites copy_63: -1593439421
+      NES - Road Fighter JPN - General Sprites copy_64: 2047073792
+      NES - Road Fighter JPN - General Sprites copy_65: -500330766
+      NES - Road Fighter JPN - General Sprites copy_66: 1057679413
+      NES - Road Fighter JPN - General Sprites copy_67: -376877501
+      NES - Road Fighter JPN - General Sprites copy_68: -1202676451
+      NES - Road Fighter JPN - General Sprites copy_69: 209915801
+      NES - Road Fighter JPN - General Sprites copy_7: -466570067
+      NES - Road Fighter JPN - General Sprites copy_70: 600973704
+      NES - Road Fighter JPN - General Sprites copy_71: -1663804877
+      NES - Road Fighter JPN - General Sprites copy_72: 2123772360
+      NES - Road Fighter JPN - General Sprites copy_73: -1004782123
+      NES - Road Fighter JPN - General Sprites copy_74: -1709135701
+      NES - Road Fighter JPN - General Sprites copy_75: 1941330609
+      NES - Road Fighter JPN - General Sprites copy_76: -858415356
+      NES - Road Fighter JPN - General Sprites copy_77: -554227966
+      NES - Road Fighter JPN - General Sprites copy_78: -967537841
+      NES - Road Fighter JPN - General Sprites copy_79: -668533030
+      NES - Road Fighter JPN - General Sprites copy_8: -2115293162
+      NES - Road Fighter JPN - General Sprites copy_80: 369868427
+      NES - Road Fighter JPN - General Sprites copy_81: -764465841
+      NES - Road Fighter JPN - General Sprites copy_82: 1476762258
+      NES - Road Fighter JPN - General Sprites copy_83: -1223446303
+      NES - Road Fighter JPN - General Sprites copy_84: 1998960777
+      NES - Road Fighter JPN - General Sprites copy_85: -1073994266
+      NES - Road Fighter JPN - General Sprites copy_86: 1705794460
+      NES - Road Fighter JPN - General Sprites copy_87: 209197874
+      NES - Road Fighter JPN - General Sprites copy_88: 1272236040
+      NES - Road Fighter JPN - General Sprites copy_89: -1370574777
+      NES - Road Fighter JPN - General Sprites copy_9: 1801823029
+      NES - Road Fighter JPN - General Sprites copy_90: -695192633
+      NES - Road Fighter JPN - General Sprites copy_91: -436306761
+      NES - Road Fighter JPN - General Sprites copy_92: -1448434263
+      NES - Road Fighter JPN - General Sprites copy_93: -1695618002
+      NES - Road Fighter JPN - General Sprites copy_94: 1138347808
+      NES - Road Fighter JPN - General Sprites copy_95: -1569823796
+      NES - Road Fighter JPN - General Sprites copy_96: -719960519
+      NES - Road Fighter JPN - General Sprites copy_97: 1913218583
+      NES - Road Fighter JPN - General Sprites copy_98: -827139775
+      NES - Road Fighter JPN - General Sprites copy_99: 2039082470
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

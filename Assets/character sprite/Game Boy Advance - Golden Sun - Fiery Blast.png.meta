@@ -1,0 +1,1125 @@
+fileFormatVersion: 2
+guid: f034b3bed5c72a347b20f58ebb4c2f05
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1241
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3dafa62f92f7e4b9a0b722f387c8b8
+      internalID: 2095698430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1241
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b046643c92b044ca6f667adaa6ba54
+      internalID: -1323712092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_2
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1241
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db7e99f646dad14c8c9148cad31072f
+      internalID: 1105078747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_3
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1241
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb8d5a479698364489c255bc581ae7c
+      internalID: -159858515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_4
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1241
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cbf5df8703e2b4b99b3205b8ee32f0
+      internalID: 2009603109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1091
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d765b6a6174261a40a1ef7a26abaee62
+      internalID: 1365939118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1091
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77633f5ed11609041b873f84e7754c36
+      internalID: -331816803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_7
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1091
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66f860cc9117924f8191a49f876281d
+      internalID: 984283226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_8
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1091
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe8ed19d9159ff429c1ad04d3db6ffb
+      internalID: -577484756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_9
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1091
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a22117018dc634d8ee5a61fdc0202f
+      internalID: 1382563545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 941
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bece643cf74ab0341b01378a7abff7ac
+      internalID: 254759370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_11
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 941
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461e1695460f3f84991818e2ae4e8e8c
+      internalID: -997763201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_12
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 941
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d8463c787616448af0f5f95bdb54ae
+      internalID: 1411041258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_13
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 941
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b31c2957950bf4da6422ec50343495
+      internalID: -935825689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_14
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 941
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fc428fcb0b1bd4ab9bf0ee77ed4040
+      internalID: 159483426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 791
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1a48e12cc82db4c8c435da7943c8f4
+      internalID: -1833125531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_16
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 791
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffab28a6696b0f4eaf4bce3c4ad7782
+      internalID: -1767537304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_17
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 791
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e425f7efe73354ea1165fa6b36a277
+      internalID: -585383612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_18
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 791
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71c645b12aa1154285d943109110162
+      internalID: -1584839132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_19
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 791
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2677c92e80f571f49b565d3d18714a47
+      internalID: 2033172054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 641
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87672f82d11131c448c9feeed4af1b0a
+      internalID: 1852313932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_21
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 641
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d231fedecb7ac714abff442ac9e1491a
+      internalID: 1667577683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_22
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 641
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa22133cd149594cb87380f7a8f0b1f
+      internalID: 1365382173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_23
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 641
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25fb15dbbbc30146bb5f4603072059f
+      internalID: 900043637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_24
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 641
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdca2cd8a998bfa40ac348218bf94f49
+      internalID: 841716926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 491
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea43d0d9e5067141a5236d422d255d9
+      internalID: 1811183269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_26
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 491
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d264fd6d4c67a4fa55bbb449576e5a
+      internalID: -1693544228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_27
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 491
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10dea095392718e4aab2cedf64e5f6b7
+      internalID: 385127290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_28
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 491
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e069d4b27acb02d41a91a940ee7ee123
+      internalID: -486662878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_29
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 491
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7146e6bf90ff6d645966b88157497d7c
+      internalID: -968457194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 341
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d3bdb4726f42f45b047e8a0b018f1b
+      internalID: 1603834374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_31
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 341
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7044d0b5b3596744dae0c5b7823f451b
+      internalID: 322880193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_32
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 341
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c78cf69f8179346ad17a038ebbd399
+      internalID: 349815984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_33
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 341
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71996adb1564ba44b4b9c60699a3667
+      internalID: 2121190106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_34
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 341
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a021edb3b768934896617bbb5a06ebf
+      internalID: -1625334959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c4a096e5d261a4bbf4d8abcdd9725d
+      internalID: 292242569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_36
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 191
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740c68044b6ffed46a5670854b28c3c3
+      internalID: 1952033077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_37
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 191
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de322ddc8cae51c47b963d8ac6141949
+      internalID: -892525730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_38
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 191
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa90e2dd73d3cac4680b91bfeb31ab8f
+      internalID: -1198748267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_39
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 191
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a096396cdfcd944fa37c775b01b683c
+      internalID: -836586868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabec99bb5b018e4d8381df2476d80cd
+      internalID: 1172137802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_41
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 41
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8c6388a00c893479ef5856b5f3843e
+      internalID: 939019878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_42
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 41
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e3b5bb53e5b6846a1f516350587d40
+      internalID: -1757172876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_43
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 41
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a926616ef19eb344a893480da90f08bb
+      internalID: 1004306461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Golden Sun - Fiery Blast_44
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 41
+        width: 242
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799d5eafd8c69ce4a8a3d2de9ab283bc
+      internalID: 4251709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Boy Advance - Golden Sun - Fiery Blast_0: 2095698430
+      Game Boy Advance - Golden Sun - Fiery Blast_1: -1323712092
+      Game Boy Advance - Golden Sun - Fiery Blast_10: 254759370
+      Game Boy Advance - Golden Sun - Fiery Blast_11: -997763201
+      Game Boy Advance - Golden Sun - Fiery Blast_12: 1411041258
+      Game Boy Advance - Golden Sun - Fiery Blast_13: -935825689
+      Game Boy Advance - Golden Sun - Fiery Blast_14: 159483426
+      Game Boy Advance - Golden Sun - Fiery Blast_15: -1833125531
+      Game Boy Advance - Golden Sun - Fiery Blast_16: -1767537304
+      Game Boy Advance - Golden Sun - Fiery Blast_17: -585383612
+      Game Boy Advance - Golden Sun - Fiery Blast_18: -1584839132
+      Game Boy Advance - Golden Sun - Fiery Blast_19: 2033172054
+      Game Boy Advance - Golden Sun - Fiery Blast_2: 1105078747
+      Game Boy Advance - Golden Sun - Fiery Blast_20: 1852313932
+      Game Boy Advance - Golden Sun - Fiery Blast_21: 1667577683
+      Game Boy Advance - Golden Sun - Fiery Blast_22: 1365382173
+      Game Boy Advance - Golden Sun - Fiery Blast_23: 900043637
+      Game Boy Advance - Golden Sun - Fiery Blast_24: 841716926
+      Game Boy Advance - Golden Sun - Fiery Blast_25: 1811183269
+      Game Boy Advance - Golden Sun - Fiery Blast_26: -1693544228
+      Game Boy Advance - Golden Sun - Fiery Blast_27: 385127290
+      Game Boy Advance - Golden Sun - Fiery Blast_28: -486662878
+      Game Boy Advance - Golden Sun - Fiery Blast_29: -968457194
+      Game Boy Advance - Golden Sun - Fiery Blast_3: -159858515
+      Game Boy Advance - Golden Sun - Fiery Blast_30: 1603834374
+      Game Boy Advance - Golden Sun - Fiery Blast_31: 322880193
+      Game Boy Advance - Golden Sun - Fiery Blast_32: 349815984
+      Game Boy Advance - Golden Sun - Fiery Blast_33: 2121190106
+      Game Boy Advance - Golden Sun - Fiery Blast_34: -1625334959
+      Game Boy Advance - Golden Sun - Fiery Blast_35: 292242569
+      Game Boy Advance - Golden Sun - Fiery Blast_36: 1952033077
+      Game Boy Advance - Golden Sun - Fiery Blast_37: -892525730
+      Game Boy Advance - Golden Sun - Fiery Blast_38: -1198748267
+      Game Boy Advance - Golden Sun - Fiery Blast_39: -836586868
+      Game Boy Advance - Golden Sun - Fiery Blast_4: 2009603109
+      Game Boy Advance - Golden Sun - Fiery Blast_40: 1172137802
+      Game Boy Advance - Golden Sun - Fiery Blast_41: 939019878
+      Game Boy Advance - Golden Sun - Fiery Blast_42: -1757172876
+      Game Boy Advance - Golden Sun - Fiery Blast_43: 1004306461
+      Game Boy Advance - Golden Sun - Fiery Blast_44: 4251709
+      Game Boy Advance - Golden Sun - Fiery Blast_5: 1365939118
+      Game Boy Advance - Golden Sun - Fiery Blast_6: -331816803
+      Game Boy Advance - Golden Sun - Fiery Blast_7: 984283226
+      Game Boy Advance - Golden Sun - Fiery Blast_8: -577484756
+      Game Boy Advance - Golden Sun - Fiery Blast_9: 1382563545
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

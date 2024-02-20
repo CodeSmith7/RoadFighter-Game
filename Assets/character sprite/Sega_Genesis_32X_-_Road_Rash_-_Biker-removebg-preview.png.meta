@@ -1,0 +1,2961 @@
+fileFormatVersion: 2
+guid: d65e7bebbf287f64b938a71094ce25a3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 331
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4e3ef13a31c4e4c821212d3be0b663
+      internalID: -1234211937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 331
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07522bcdf4ca185408ef110a3655eb21
+      internalID: 1281794740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 331
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdae60c8b98b2d84a8b6b02e6a99df69
+      internalID: -1371728868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 331
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7cc042a4ff8b14691e9a020962873d
+      internalID: 259964100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 331
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e608eaadf26ef4a852b7408128b7cb
+      internalID: -252918992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 331
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3879af66bbb7b8d4d9b0a0d75318f908
+      internalID: 996281608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 331
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bbabf84a7d9014f81e8f8150b95595
+      internalID: 1508745943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 331
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efab64e64e74f648ac5ec078909e17b
+      internalID: 1853672140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 331
+        width: 45
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0ca8116d0069c4886f3ea5ee127de1
+      internalID: -472136698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 331
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8dfdf0655ad704b86f8ae9c33feb30
+      internalID: -1639066645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 331
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1974187acafe3324382bf28440ad2e14
+      internalID: 1244162466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 331
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30948b194d98214ba7d4fb6a0f8ff46
+      internalID: -1251024433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 331
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f9fa216f6f18e48b955770bc3e7a29
+      internalID: -53488263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 331
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9643ae79c6872478e4fc33d512318a
+      internalID: 1800890841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 331
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f010f632195df0a4f9bdb84af58f89db
+      internalID: -657019026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 329
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d361a3304d73e145906fa247ad8d98a
+      internalID: 1306208597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 329
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc979768a616e6b489ce754831e1d5a6
+      internalID: 643296950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 329
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b30b2e1d493ff4390c3ab5ce6bf1ca
+      internalID: -22136587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 335
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cabbf32a0672924c8bc97c40003065a
+      internalID: 1766209579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 322
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c034967a95a70934c986af44d9786147
+      internalID: 1157765988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 322
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af630d4dadda7942962a4448d933c94
+      internalID: -620898840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 322
+        width: 35
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a927528a4d8dd249a67f52f6f8268e4
+      internalID: 1280708408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 321
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78da07d6a6cc8c448197849da3e7722
+      internalID: 268612732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 321
+        width: 52
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beffc0bc27940674da7ea29575ae0a78
+      internalID: 504930579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 321
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62af1534e215fa24f8439b2c07a4fcb9
+      internalID: -1224199437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 319
+        width: 61
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24003ac865f61647b0178ce5cc30932
+      internalID: -472302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 323
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d406d4c922f8846a75397c57b0b366
+      internalID: 1002727872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 322
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b5918c70b758044a4a6c4ab4fe885a
+      internalID: 1535014288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 324
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90398bfb76f366541b1b0603ca90e6bb
+      internalID: -1424496077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 280
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c75749ec4e71140821647233b3d048
+      internalID: 603284820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 280
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c47d87f107f7254fb81228c800deed7
+      internalID: -1817237438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 279
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401049ea79be6b04cac2104675fc400e
+      internalID: -913657160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 279
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866729dcd86ca944e8a8ca231cf5f278
+      internalID: -1824588670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 279
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbdd15e1534f6e841acc4ecec4ed5850
+      internalID: 1438816587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 279
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfde73d69d6e744fa2f8d09f976f024
+      internalID: -884835284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 277
+        width: 21
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d7b95e4232e8f42830dedfcef74304
+      internalID: -1652501510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 277
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9993466d4c459ac49aa95292beec31a8
+      internalID: 57332927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 277
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd49d4b17bfdbc4da307baabe78b8d5
+      internalID: -53342748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 277
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4520bdd49f49e4eb18f8360799c6c7
+      internalID: 1267751133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 277
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e8678bf1a4ad04d82b4acf5aead7d6
+      internalID: 387885451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 277
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0916a485b5bc1b44aa12bdd17c3694a
+      internalID: -180726062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 277
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af72e5b708913fe449dae1a6914f90aa
+      internalID: -416777313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 277
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecd353eca7967147abfc1fe164372e9
+      internalID: -748398596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 277
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002746eb6c4d9ae4e93b3022cc48fc29
+      internalID: 1128326556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 277
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caea328dc5630cb48a3cb1d731a7ccde
+      internalID: -1807117765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 277
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962a4645c54645a498d51d0106ec447b
+      internalID: -1175974484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 277
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5588e1a01c5c44aa01384cc930de5d
+      internalID: 470027306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 277
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad6969b911a838499d9fd34a28995ca
+      internalID: -1368768211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 277
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfa3a9e062c25646a0a61e70a051d44
+      internalID: -1888318108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 228
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f0900cb59de0e48a5fb40d270369a9
+      internalID: 1473234573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 228
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74819694cb3b2f44a2061e7a0997f96
+      internalID: 1498054613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 269
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18d658029a47f44e86fe37fe20101e8
+      internalID: 513068844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 228
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bf7f2db871e6d42829a3c79958a98e
+      internalID: -301990342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 228
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b470822651d175749b8260dbec7b8abb
+      internalID: -766768031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 228
+        width: 105
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1583e19b970af408d871a5903284f2
+      internalID: 94616576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 228
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bc965ef03f99e42bd7b6662483feba
+      internalID: 1005064821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 228
+        width: 60
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab28c404c01f0d46ae3d1f3491a5fe7
+      internalID: 1906038817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 228
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40721d11de91f86498c223a3383d9ae7
+      internalID: -436914913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 228
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8659a4368847f4ab67941d1eb61891
+      internalID: -282593922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 228
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59849aef689f98f42a973693b0b1b5aa
+      internalID: -133518722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 228
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2444e5ff072caaf499c489d95b89840d
+      internalID: 1668401738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 228
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f4f23ee85ebef49849cf7d31ec5450
+      internalID: -1126369116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 228
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212b509215c52b148a5be0e1292adc6f
+      internalID: -1868923015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 228
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b6e553ff8510a469d489e5902f3d7a
+      internalID: -182807612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 228
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643dadcbcca6b884db7ed319b7661c62
+      internalID: -1650830272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 219
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dfde7502145bb40af41ca84e8edf7a
+      internalID: 752286004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 219
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4beab3b54a1314786ebf983a71a046
+      internalID: 578711688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 219
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc06ee45d31a42468feb662eb3468b6
+      internalID: -52435868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 171
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b28cdfa45f0824e9e18f83aa140b70
+      internalID: -149968591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 171
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f566b5948b4744f890533b0daf3193
+      internalID: 1448391962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 172
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae20422be2374ee4f928ddfd094c83f6
+      internalID: -1946719241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 173
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c2b4f0ae43e0e468c1f7494c4062b7
+      internalID: -6120766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 168
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71511ba034e9d7141a1bc09d400d5377
+      internalID: 135834321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 170
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d692c06c8d0b16248a8e30cc9fbde697
+      internalID: -893757112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 174
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083b2ca702bf9c94a86b2e45f1f9677d
+      internalID: -1041102659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 167
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cbe4d28601c2a479f6e3f184f879ce
+      internalID: -1881109980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 169
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfa05153d936e346947788478b80b6e
+      internalID: -289090585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 166
+        width: 43
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38e13b753e048545a8c6ccf42d92209
+      internalID: -2065518108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 166
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9b0134a0b14ed4588617b2626b19aa
+      internalID: 1284088965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 167
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4cc55d13e49d64eb466af735b772aa
+      internalID: 540770033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 166
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba4a34ab3068e64cbb66780340abe11
+      internalID: 649925686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 164
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f0b8f2297f4314582d0e1061705b1f
+      internalID: -1628873172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_82
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 165
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e138054147e94ca42a1699ac0afc959d
+      internalID: -398316184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_83
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 164
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0680b339ddb42c54db64274366b51ab3
+      internalID: -263061070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_84
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 166
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3afac815de59b4cb4e5884aee8fa4c
+      internalID: 906549882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_85
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 166
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e59e8b519124d046be5c3c7e052eeee
+      internalID: -2026587520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_86
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 163
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8ad20064c87f8488955d1b4690afec
+      internalID: 510515097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_87
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 166
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3bc03afabcd9442850ef9d9de402c8
+      internalID: -486480546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_88
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 158
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c0cdf2fdf58a64fba993922b100a3b
+      internalID: -2126188741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_89
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 156
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e860ca43499b97d4fba4adaad2e558ea
+      internalID: -1081968532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_90
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 153
+        width: 40
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c60ec19c11d3747bacbd7ebdd569c3
+      internalID: -728927806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_91
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 124
+        width: 58
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52dc75eb4a578f41b637427d6821c75
+      internalID: -1388397412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_92
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 128
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be80559cc884cfe4b8578c593e441bd1
+      internalID: 390822655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_93
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 127
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50e1dad64795ef4d9c4ce120886fb3f
+      internalID: 1459595542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_94
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 130
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8dc61ee13a5f0d4ab5f4d833f17c65e
+      internalID: 271232926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_95
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 30
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e72dbf7745770547aabc8ba85322be9
+      internalID: 938847843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_96
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 128
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b60c31d381981446a5635e2792847a9
+      internalID: -2116515420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_97
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 130
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2697d90d94eaaf449e0aee7ced5f445
+      internalID: 1725736060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_98
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 111
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231ee4d25ffb80f4dae44b7b145af72b
+      internalID: 544818567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_99
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 109
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b5e8c17d116ca4b93198d0d3656199
+      internalID: -394564280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_100
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 111
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c9fa764dda0584191ca5389f32f6b0
+      internalID: 833114141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_101
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 111
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cab3e11dc504cd41b3edc78cd7b7dc7
+      internalID: 28890508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_102
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 101
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564af5ed85379f54793029a2c09ff4fd
+      internalID: -514240762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_103
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 109
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2557f2404ffde3449bdc9f3baa9cf1e6
+      internalID: -648822567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_104
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 113
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dea90f08ce745047ad14496e75790eb
+      internalID: 380911876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_105
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 102
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb4d64dbc6f5214ca9bc82e17960e46
+      internalID: -1854983239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_106
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 62
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e923badb51911e458f6b05ae21ed369
+      internalID: -537384992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_107
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 61
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4f70e63f2f46a4b9984e15c5c1d15b
+      internalID: 34067793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_108
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 62
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8381ba9d62dc14db8d91c066187951
+      internalID: -1420195926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_109
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 60
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7b080d01217a5448897cd24faf5b8e
+      internalID: 1235682959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_110
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 61
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468fd07b9bc268b42b83239d2c68b4ca
+      internalID: -1713731843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_111
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 60
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045db493b40289c4697a297853d1b7b0
+      internalID: -573216144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_112
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 59
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251b518e737dd4b46b7c3fc0a4cba3c4
+      internalID: 1214274249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_113
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 58
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf4ff7083ff1714196105fd2656be65
+      internalID: -1230019675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_114
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 56
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b74122c92dc2454992b58da30676109
+      internalID: -1172201897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_115
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 56
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6f3c042d13f31478a2ef88be46c359
+      internalID: -1394550038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_116
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 63
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a147154909cae6840be1d71ab1be140b
+      internalID: 903685497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_117
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 57
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4bf626950bb434f954152aecc8f90a
+      internalID: 69154945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_118
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 55
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7c2e9ad0d3d5642a56e6ea11f927fe
+      internalID: 212446384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_119
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 54
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3134278ddb8304c499d529c61d45a346
+      internalID: -1566384306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_120
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 54
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc40afce588a4641af86972f64264af
+      internalID: -200629250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_121
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 56
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70371a75ee10c824c959e9d787f931c0
+      internalID: 1061001265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_122
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 46
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da024c5a8c4ead34aa1fd61db39e3b96
+      internalID: 936765120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_123
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 6
+        width: 15
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea3b774b3993ed419ff2fa42b82334e
+      internalID: 2111106275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_124
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 44
+        width: 48
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5940739a2a69d86418bc52b75b0605b5
+      internalID: 974451627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_125
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 10
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24c08725ff7e5646ad486cc2f8abfad
+      internalID: -1709187760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_126
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 10
+        width: 51
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a371d4230639646b20767655dcd72b
+      internalID: -1979493600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_127
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 8
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e378a79c8e049741b813cec0ef82d5e
+      internalID: 189073272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_128
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 11
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dae5e98fcd82644e8bcf4e31aea2fd8
+      internalID: 2043259542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_0: -1234211937
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_1: 1281794740
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_10: 1244162466
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_100: 833114141
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_101: 28890508
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_102: -514240762
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_103: -648822567
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_104: 380911876
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_105: -1854983239
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_106: -537384992
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_107: 34067793
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_108: -1420195926
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_109: 1235682959
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_11: -1251024433
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_110: -1713731843
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_111: -573216144
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_112: 1214274249
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_113: -1230019675
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_114: -1172201897
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_115: -1394550038
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_116: 903685497
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_117: 69154945
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_118: 212446384
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_119: -1566384306
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_12: -53488263
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_120: -200629250
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_121: 1061001265
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_122: 936765120
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_123: 2111106275
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_124: 974451627
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_125: -1709187760
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_126: -1979493600
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_127: 189073272
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_128: 2043259542
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_13: 1800890841
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_14: -657019026
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_15: 1306208597
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_16: 643296950
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_17: -22136587
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_18: 1766209579
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_19: 1157765988
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_2: -1371728868
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_20: -620898840
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_21: 1280708408
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_22: 268612732
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_23: 504930579
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_24: -1224199437
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_25: -472302
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_26: 1002727872
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_27: 1535014288
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_28: -1424496077
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_29: 603284820
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_3: 259964100
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_30: -1817237438
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_31: -913657160
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_32: -1824588670
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_33: 1438816587
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_34: -884835284
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_35: -1652501510
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_36: 57332927
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_37: -53342748
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_38: 1267751133
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_39: 387885451
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_4: -252918992
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_40: -180726062
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_41: -416777313
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_42: -748398596
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_43: 1128326556
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_44: -1807117765
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_45: -1175974484
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_46: 470027306
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_47: -1368768211
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_48: -1888318108
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_49: 1473234573
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_5: 996281608
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_50: 1498054613
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_51: 513068844
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_52: -301990342
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_53: -766768031
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_54: 94616576
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_55: 1005064821
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_56: 1906038817
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_57: -436914913
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_58: -282593922
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_59: -133518722
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_6: 1508745943
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_60: 1668401738
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_61: -1126369116
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_62: -1868923015
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_63: -182807612
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_64: -1650830272
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_65: 752286004
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_66: 578711688
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_67: -52435868
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_68: -149968591
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_69: 1448391962
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_7: 1853672140
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_70: -1946719241
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_71: -6120766
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_72: 135834321
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_73: -893757112
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_74: -1041102659
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_75: -1881109980
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_76: -289090585
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_77: -2065518108
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_78: 1284088965
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_79: 540770033
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_8: -472136698
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_80: 649925686
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_81: -1628873172
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_82: -398316184
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_83: -263061070
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_84: 906549882
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_85: -2026587520
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_86: 510515097
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_87: -486480546
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_88: -2126188741
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_89: -1081968532
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_9: -1639066645
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_90: -728927806
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_91: -1388397412
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_92: 390822655
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_93: 1459595542
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_94: 271232926
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_95: 938847843
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_96: -2116515420
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_97: 1725736060
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_98: 544818567
+      Sega_Genesis_32X_-_Road_Rash_-_Biker-removebg-preview_99: -394564280
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
